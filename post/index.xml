@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SecNetTool</title>
-    <link>https://81app.github.io/</link>
-    <description>Recent content on SecNetTool</description>
+    <title>Posts on SecNetTool</title>
+    <link>https://81app.github.io/post/</link>
+    <description>Recent content in Posts on SecNetTool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Nov 2018 00:15:55 +0800</lastBuildDate>
     
-	<atom:link href="https://81app.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,17 +30,6 @@ Overview SecNetTool is an IPsec VPN Client, which encrypts your network traffic,
       <description>The Privacy Policy SecNetTool keeps no logs which enable interference with your IP address, the moment or content of your data traffic. We make express reference to the fact that we do not record in logs communication contents or data regarding the accessed websites or the IP addresses .
 Install &amp;amp; Updates We have the right to install certificates and future updates at any time without any notice.
 Changes We reserve the right, at our sole discretion, to modify or replace these Terms at any time.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://81app.github.io/about/</link>
-      <pubDate>Sun, 18 Nov 2018 23:12:50 +0800</pubDate>
-      
-      <guid>https://81app.github.io/about/</guid>
-      <description>Overview SecNetTool is an IPsec VPN Client, which encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.g. at coffee shops, airports or hotel rooms.
-Contact Email: secnettool@gmail.com
-</description>
     </item>
     
   </channel>
