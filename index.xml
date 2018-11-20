@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>Secnettool Introduction</title>
+      <title>SecNetTool Introduction</title>
       <link>https://81app.github.io/post/secnettool-introduction/</link>
       <pubDate>Mon, 19 Nov 2018 00:15:55 +0800</pubDate>
       
       <guid>https://81app.github.io/post/secnettool-introduction/</guid>
-      <description>SecNetTool SecNetTool is an IPsec VPN Client, which encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.g. at coffee shops, airports or hotel rooms.
-Overview SecNetTool is an IPsec VPN Client, which encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet.</description>
+      <description>What is VPN? A VPN, or virtual private network, is a secure tunnel between two or more devices. VPNs are used to protect private web traffic from snooping, interference, and censorship.
+What is SecNetTool? SecNetTool is an IPsec VPN App, which encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@ Changes We reserve the right, at our sole discretion, to modify or replace these
       <guid>https://81app.github.io/about/</guid>
       <description>Overview SecNetTool is an IPsec VPN Client, which encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.g. at coffee shops, airports or hotel rooms.
 Contact Email: secnettool@gmail.com
-</description>
+Twitter: https://twitter.com/secnettool</description>
     </item>
     
   </channel>
