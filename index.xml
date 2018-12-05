@@ -28,8 +28,7 @@ Features  Super Fast and secured with industry level encryption algorithm. Supor
       
       <guid>https://81app.github.io/post/yings-privacy-policy/</guid>
       <description>Yings is a proxy utility which used shadowsocks, shadowsocks is a secure socks5 proxy, designed to protect your internet traffic.
-Data Collection Yings is just a proxy tool that provides network acceleration. We will not collect any of your information.
-In order to improve product quality, we provide email feedback function, if you have any suggestions, you can send us an email. This email content is only used to help us communicate and improve product quality, we will not use it anywhere else.</description>
+Data Collection Yings is just a proxy tool that provides network acceleration. We do not collect logs of your activity, including no logging of browsing history, traffic destination, data content, or DNS queries. We also never store connection logs, meaning no logs of your IP address, your outgoing VPN IP address, connection timestamp, or session duration.</description>
     </item>
     
     <item>
