@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Dec 2018 23:59:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 17:23:26 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction of Yings for iOS</title>
+      <link>https://81app.github.io/post/ios-yings-help/</link>
+      <pubDate>Fri, 07 Dec 2018 17:23:26 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/ios-yings-help/</guid>
+      <description>Overview Yings is a proxy utility which used shadowsocks, shadowsocks is a secure socks5 proxy, designed to protect your internet traffic.
+Features  Super Fast and secured with industry level encryption algorithm. Suports auto mode and global mode With eight built-in proxy servers, more proxy servers will be available soon. No registration and login, easy to use.  The difference of Auto Mode and Global Mode Auto Mode: You know some websites is blocked in some country.</description>
+    </item>
     
     <item>
       <title>Introduction of Yings for macOS</title>

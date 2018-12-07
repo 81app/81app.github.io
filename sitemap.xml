@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://81app.github.io/post/ios-yings-help/</loc>
+    <lastmod>2018-12-07T17:23:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://81app.github.io/post/macos-yings-help/</loc>
     <lastmod>2018-12-03T23:59:15+08:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>https://81app.github.io/post/</loc>
-    <lastmod>2018-12-03T23:59:15+08:00</lastmod>
+    <lastmod>2018-12-07T17:23:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://81app.github.io/</loc>
-    <lastmod>2018-12-03T23:59:15+08:00</lastmod>
+    <lastmod>2018-12-07T17:23:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
