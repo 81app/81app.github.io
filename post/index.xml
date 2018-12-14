@@ -6,10 +6,36 @@
     <description>Recent content in Posts on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Dec 2018 17:23:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Dec 2018 19:08:48 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>隐私政策</title>
+      <link>https://81app.github.io/post/tumblr-reader-privacy-policy/</link>
+      <pubDate>Fri, 14 Dec 2018 19:08:48 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/tumblr-reader-privacy-policy/</guid>
+      <description>汤博阅读是iOS平台上的一款基于Tumblr标签的阅读器， 里面的所有内容来自于Tumblr，汤博阅读对里面的内容不拥有版权。
+关于数据搜集 汤博阅读不会收集您的任何信息，因为我们没有注册和登录功能，并且里面所有的内容来自Tumblr，我们通过Tumblr开放的API来请求内容。
+在汤博阅读中有一个“我的收藏”功能，里面的所有内容保存在您设备里，我们不会上传到任何地方。所以当您删除汤博阅读以后，“我的收藏”里面的内容也会删除。
+在汤博阅读中有一个邮件反馈功能，对于您发给我们的邮件，我们只用作沟通交流汤博阅读的功能，不会用作任何其它地方。
+关于汤博阅读中的代理功能，默认我们不会开启代理功能。当您开启代理功能以后，它只用作您方便的访问Tumblr，不会记录您的任何信息。如果您有任何担忧，您可以选择不开启代理。
+关于隐私政策的更新 如果我们有相关政策的更新，我们会更新这个页面。
+联系我们 如果您对此隐私政策有任何问题，请联系我们。 我们的邮箱是：secnettool@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>汤博阅读-发现Tumblr上有趣好玩的内容</title>
+      <link>https://81app.github.io/post/tumblr-reader/</link>
+      <pubDate>Fri, 14 Dec 2018 15:54:54 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/tumblr-reader/</guid>
+      <description> 汤博阅读是iOS平台上的一款基于Tumblr标签的阅读神器， 在这里您可以尽情的探索，它包含30多个标签，总有您感兴趣的内容。但它远不止如此，通过搜索您感兴趣的标签，可以获得意想不到的效果。在这里，您可以尽情浏览精美的图片，如果您对美食感兴趣，我想在美食标签下一定有您喜欢的图片。如果您对美妆有兴趣，我想在美妆标签下有您想看到的内容。
+特色 重要的是这款App自带代理功能，当您开启代理以后，您不需要连接VPN也可以正常使用应用功能。如果您设备已连接VPN或可以正常访问Tumblr， 建议您不要开启代理。因为您知道在国内非常复杂的网络环境下，我们自建的代理，可能会存在不稳定的情况，也就是就算您开启代理，或许也不能看到那么多精美的图片。这个时候如果您有一个私有的VPN，或许一切问题都解决了。 但我们会尽量保证App自带代理的稳定性。
+功能摘要  打开App即可看到标签的内容，像您使用“网易新闻”或“今日头条”一样简单，左右滑动，尽情浏览。 点击图片查看大图，重要的是您还可以下载保存哟。 我们的App不需要注册和登录，打开即可使用，但我们有“我的收藏”哦，看到您喜欢的博主，那就收藏吧。 基于Tumblr的API，我们提供了很强大的搜索功能，至于怎么使用，留给您尽情的探索吧。  界面一目了然 </description>
+    </item>
     
     <item>
       <title>Introduction of Yings for iOS</title>
