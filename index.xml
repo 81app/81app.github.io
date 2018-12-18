@@ -6,10 +6,20 @@
     <description>Recent content on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Dec 2018 00:26:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 01:41:09 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>免费内测Shadowsocks for iOS</title>
+      <link>https://81app.github.io/post/shadowsocks-ios-free/</link>
+      <pubDate>Wed, 19 Dec 2018 01:41:09 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/shadowsocks-ios-free/</guid>
+      <description> 下载地址：https://testflight.apple.com/join/DfBoCCud
+截图 </description>
+    </item>
     
     <item>
       <title>免费的Mac VPN应用</title>
