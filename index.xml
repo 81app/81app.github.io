@@ -6,10 +6,23 @@
     <description>Recent content on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jan 2019 17:56:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 02:26:05 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://81app.github.io/post/kankan-privacy-policy/</link>
+      <pubDate>Thu, 28 Feb 2019 02:26:05 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/kankan-privacy-policy/</guid>
+      <description>看看 is a txt reader application for iOS.
+Data Collection 看看 will not collect any of your information.
+Changes To This Privacy Policy If we decide to change our privacy policy, we will post those changes on this page.
+Contact US If there are any questions regarding this privacy policy you may contact us using the information below.
+contact@secnettool.com</description>
+    </item>
     
     <item>
       <title>mdEditor - Markdown文本编辑器</title>
