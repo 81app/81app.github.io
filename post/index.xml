@@ -6,13 +6,36 @@
     <description>Recent content in Posts on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 02:26:05 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 17:52:32 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Privacy Policy</title>
+      <title>Introduction of SpeedHost for macOS</title>
+      <link>https://81app.github.io/post/macos-speedhost-help/</link>
+      <pubDate>Sun, 10 Mar 2019 17:52:32 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/macos-speedhost-help/</guid>
+      <description> SpeedHost is a proxy utility which used Network Extension Technology.
+Features  Support to add SS Server. Support Auto mode and Global mode Support Scan QR Code and Generate QR Code. No registration and login, easy to use.  Download on the App Store 
+Screenshots </description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy of SpeedHost</title>
+      <link>https://81app.github.io/post/speedhost-privacy-policy/</link>
+      <pubDate>Mon, 04 Mar 2019 02:17:21 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/speedhost-privacy-policy/</guid>
+      <description>SpeedHost is a proxy utility which used Network Extension Technology. Support to add SS Server.
+Data Collection We do not provide SS server information.
+We do not collect your server information.
+When you connected. We do not collect logs of your activity, including no logging of browsing history, traffic destination, data content, or DNS queries. We also never store connection logs, meaning no logs of your IP address, your outgoing VPN IP address, connection timestamp, or session duration.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy of KanKan</title>
       <link>https://81app.github.io/post/kankan-privacy-policy/</link>
       <pubDate>Thu, 28 Feb 2019 02:26:05 +0800</pubDate>
       
@@ -69,7 +92,7 @@ Features  Support Code and Syntax Highlighting. Support export to HTML with Styl
     </item>
     
     <item>
-      <title>Privacy Policy</title>
+      <title>Privacy Policy of Tanqu</title>
       <link>https://81app.github.io/post/tanqu-privacy-policy/</link>
       <pubDate>Fri, 14 Dec 2018 19:08:48 +0800</pubDate>
       
