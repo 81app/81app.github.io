@@ -6,10 +6,32 @@
     <description>Recent content in Posts on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:57:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 06:06:46 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About mdWrite</title>
+      <link>https://81app.github.io/post/about-mdwrite/</link>
+      <pubDate>Thu, 25 Jul 2019 06:06:46 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/about-mdwrite/</guid>
+      <description>Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.
+mdWrite is created as a simple-to-use editor for Markdown documents. I render your Markdown contents real-time into HTML, and display them in a preview panel.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://81app.github.io/post/mdwrite-privacy-policy/</link>
+      <pubDate>Thu, 25 Jul 2019 06:04:09 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/mdwrite-privacy-policy/</guid>
+      <description>mdWrite is created as a simple-to-use editor for Markdown documents. I render your Markdown contents real-time into HTML, and display them in a preview panel.
+Data Collection mdWrite will not collect any of your information.
+Changes To This Privacy Policy If we decide to change our privacy policy, we will post those changes on this page.
+Contact US If there are any questions regarding this privacy policy you may contact us using the information below.</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
