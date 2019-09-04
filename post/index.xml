@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 06:06:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 01:54:22 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://81app.github.io/post/rss-privacy-policy/</link>
+      <pubDate>Thu, 05 Sep 2019 01:54:22 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/rss-privacy-policy/</guid>
+      <description>ShadowsocksRSS is a RSS Reader for mac.
+ShadowsocksRSS shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
+Data Collection ShadowsocksRSS has a very strict privacy policy – we don’t want any private information about you.
+Changes To This Privacy Policy If we decide to change our privacy policy, we will post those changes on this page.
+Contact US If there are any questions regarding this privacy policy you may contact us using the information below.</description>
+    </item>
     
     <item>
       <title>About mdWrite</title>
