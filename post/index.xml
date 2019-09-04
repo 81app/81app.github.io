@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Secnettool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 01:54:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 02:05:04 +0800</lastBuildDate>
     
 	<atom:link href="https://81app.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About ShadowsocksRSS</title>
+      <link>https://81app.github.io/post/rss-help/</link>
+      <pubDate>Thu, 05 Sep 2019 02:05:04 +0800</pubDate>
+      
+      <guid>https://81app.github.io/post/rss-help/</guid>
+      <description> ShadowsocksRSS is a RSS Reader for mac.
+ShadowsocksRSS shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
+Features  Direct feed-downloading All Unread and Today smart feeds Importing and exporting OPML feed lists Starred articles Dark Mode Folders  </description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -30,8 +41,8 @@ Contact US If there are any questions regarding this privacy policy you may cont
       <pubDate>Thu, 25 Jul 2019 06:06:46 +0800</pubDate>
       
       <guid>https://81app.github.io/post/about-mdwrite/</guid>
-      <description>Markdown is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found here.
-mdWrite is created as a simple-to-use editor for Markdown documents. I render your Markdown contents real-time into HTML, and display them in a preview panel.</description>
+      <description>ShadowsocksRSS is a RSS Reader for mac.
+ShadowsocksRSS shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.</description>
     </item>
     
     <item>
