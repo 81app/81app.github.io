@@ -3,6 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://81app.github.io/post/rss-help/</loc>
+    <lastmod>2019-09-05T02:05:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/</loc>
+    <lastmod>2019-09-05T02:05:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/rss-privacy-policy/</loc>
+    <lastmod>2019-09-05T01:54:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/about-mdwrite/</loc>
+    <lastmod>2019-07-25T06:06:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/mdwrite-privacy-policy/</loc>
+    <lastmod>2019-07-25T06:04:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/cbnews-privacy-policy/</loc>
+    <lastmod>2019-06-13T00:57:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/stockmini-privacy-policy/</loc>
+    <lastmod>2019-03-23T16:31:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/macos-speedhost-help/</loc>
+    <lastmod>2019-03-10T17:52:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/speedhost-privacy-policy/</loc>
+    <lastmod>2019-03-04T02:17:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/kankan-privacy-policy/</loc>
+    <lastmod>2019-02-28T02:26:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/mdeditor-ios-zh/</loc>
+    <lastmod>2019-01-08T17:56:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/ios-mdeditor/</loc>
+    <lastmod>2018-12-30T03:36:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/mdeditor-privacy-policy/</loc>
+    <lastmod>2018-12-22T07:58:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/mdeditor/</loc>
+    <lastmod>2018-12-22T07:40:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/tanqu-privacy-policy/</loc>
+    <lastmod>2018-12-14T19:08:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/ios-yings-help/</loc>
+    <lastmod>2018-12-07T17:23:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/macos-yings-help/</loc>
+    <lastmod>2018-12-03T23:59:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/yings-privacy-policy/</loc>
+    <lastmod>2018-12-03T19:52:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/macos-secnettool-intro/</loc>
+    <lastmod>2018-11-26T18:40:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/secnettool-introduction/</loc>
+    <lastmod>2018-11-19T00:15:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://81app.github.io/post/privacy-policy/</loc>
+    <lastmod>2018-11-19T00:04:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://81app.github.io/about/</loc>
     <lastmod>2018-11-18T23:12:50+08:00</lastmod>
   </url>

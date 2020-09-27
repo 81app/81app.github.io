@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Secnettool</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 05 Sep 2019 02:05:04 +0800</pubDate>
       
       <guid>https://81app.github.io/post/rss-help/</guid>
-      <description> RSSHub is a RSS Reader for mac.
+      <description>RSSHub is a RSS Reader for mac.
 RSSHub shows you articles from your favorite blogs and news sites, and it keeps track of what you’ve read.
 Features  Direct feed-downloading All Unread and Today smart feeds Importing and exporting OPML feed lists Starred articles Dark Mode Folders  </description>
     </item>
@@ -89,7 +89,7 @@ secnettool@gmail.com</description>
       <pubDate>Sun, 10 Mar 2019 17:52:32 +0800</pubDate>
       
       <guid>https://81app.github.io/post/macos-speedhost-help/</guid>
-      <description> SpeedHost is a proxy utility which used Network Extension Technology.
+      <description>SpeedHost is a proxy utility which used Network Extension Technology.
 Features  Support to add SS Server. Support Auto mode and Global mode Support Scan QR Code and Generate QR Code. No registration and login, easy to use.  Download on the App Store 
 Screenshots </description>
     </item>
@@ -125,7 +125,7 @@ contact@secnettool.com</description>
       <pubDate>Tue, 08 Jan 2019 17:56:34 +0800</pubDate>
       
       <guid>https://81app.github.io/post/mdeditor-ios-zh/</guid>
-      <description> mdEditor是一个简单易用的Markdown文档编辑器，它可以将您的Markdown文本内容渲染成排版漂亮的HTML并显示在预览窗口中，您还可以选择将它导出为HTML或PDF文件并保存在您的文件浏览器里。
+      <description>mdEditor是一个简单易用的Markdown文档编辑器，它可以将您的Markdown文本内容渲染成排版漂亮的HTML并显示在预览窗口中，您还可以选择将它导出为HTML或PDF文件并保存在您的文件浏览器里。
 主要功能  支持使用工具栏快速插入Markdown语法。 支持多种主题并高亮显示的Markdown文本编辑器。 支持HTML预览，并可以导出为HTML和PDF文件。 支持使用浏览器上传，下载，删除文件和创建目录。  截图 </description>
     </item>
     
@@ -233,7 +233,7 @@ What is Secnettool? Secnettool is an IPsec VPN App, which encrypts your network 
       
       <guid>https://81app.github.io/post/privacy-policy/</guid>
       <description>SecNetTool is an IPsec VPN App, which encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.g. at coffee shops, airports or hotel rooms.
-Data Collection We do not collect logs of your activity, including no logging of browsing history, traffic destination, data content, or DNS queries.</description>
+Data Collection We do not collect logs of your activity, including no logging of browsing history, traffic destination, data content, or DNS queries. We also never store connection logs, meaning no logs of your IP address, your outgoing VPN IP address, connection timestamp, or session duration.</description>
     </item>
     
   </channel>
